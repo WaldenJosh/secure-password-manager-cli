@@ -1,6 +1,6 @@
-# Secure Password Manager CLI
+# Simple Password Manager CLI
 
-A simple, menu-driven password manager for the command-line interface (CLI) built using Python. The manager uses AES encryption to securely store and retrieve your passwords, and allows users to manage password entries including adding, viewing, changing, deleting, and updating the master password.
+A simple, menu-driven password manager for the command-line interface built using Python. The manager uses AES encryption to securely store and retrieve your passwords, and allows users to manage password entries including adding, viewing, changing, deleting, and updating the master password.
 
 ## Features
 
